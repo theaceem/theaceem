@@ -4,8 +4,9 @@
   small dev from rostov on don. makin' my small projects
 </p>
 
+<h2 align="center">👀 Profile Visitors</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theaceem&label=Посетители&color=0e75b6&style=for-the-badge" alt="Счётчик посетителей" />
+  <img src="https://komarev.com/ghpvc/?username=theaceem&label=VISITORS&color=2ea043&style=for-the-badge" alt="Profile visitors counter" />
 </p>
 
 ---
