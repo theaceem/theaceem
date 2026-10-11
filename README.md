@@ -6,7 +6,7 @@
 
 <h2 align="center">👀 Profile Visitors</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theaceem&label=VISITORS&color=2ea043&style=for-the-badge" alt="Profile visitors counter" />
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Ftheaceem&label=Visitors&icon=github&color=%23198754&style=for-the-badge&tz=Europe%2FMoscow" alt="Visitors C" />
 </p>
 
 ---
