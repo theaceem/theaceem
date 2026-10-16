@@ -23,7 +23,7 @@
 
 ## 🚀 Projects
 
-### 🌊 [SeaWar](https://github.com/theaceem/SeaWar)
+### 🎼 [SeaWar](https://github.com/theaceem/SeaWar)
 
 Discord bot with a Sea War game.
 
